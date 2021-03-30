@@ -42,4 +42,4 @@ print a message listing each sandwich that was made.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-06)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-08)
+[&#10094; Prev](../../../pcc-chapter-06)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-08)
