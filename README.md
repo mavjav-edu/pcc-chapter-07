@@ -64,7 +64,7 @@ list of finished sandwiches. After all the sandwiches have been made,
 print a message listing each sandwich that was made.
 
 <span id="ch7exe9"></span>**7-9. No Pastrami:** Using the list
-`sandwich_orders` from [Exercise 7-8](../../../pcc_2e/tree/master/chapter_07/README.md#ch7exe8), make sure the
+`sandwich_orders` from [Exercise 7-8](#ch7exe8), make sure the
 sandwich `'pastrami'` appears in the list at least three times. Add code
 near the beginning of your program to print a message saying the deli
 has run out of pastrami, and then use a `while` loop to remove all
