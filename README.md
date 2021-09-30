@@ -39,7 +39,7 @@ cost of their movie ticket.
 
 <span id="page_128"></span><span id="ch7exe6"></span>**7-6. Three
 Exits:** Write different versions of either [Exercise
-7-4](../../../pcc_2e/tree/master/chapter_07/README.md#ch7exe4) or [Exercise 7-5](#ch7exe5) that do
+7-4](#ch7exe4) or [Exercise 7-5](#ch7exe5) that do
 each of the following at least once:
 
 - Use a conditional test in the `while` statement to stop the loop.
