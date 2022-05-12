@@ -9,6 +9,8 @@ need to ask the user to enter, or *input*, their age; once the program
 has this input, it can compare it to the voting age to determine if the
 user is old enough and then report the result.
 
+![connections and loops](elements-connections-loops-bold.png)
+
 ## TRY IT YOURSELF Ⓐ
 
 <span id="ch7exe1"></span>**7-1. Rental Car:** Write a program that asks
@@ -30,6 +32,8 @@ prompts the user to enter a series of pizza toppings until they enter a
 `'quit'` value. As they enter each topping, print a message saying
 you&rsquo;ll add that topping to their pizza.
 
+![pizza toppings](toppings.png)
+
 <span id="ch7exe5"></span>**7-5. Movie Tickets:** A movie theater
 charges different ticket prices depending on a person&rsquo;s age. If a person
 is under the age of 3, the ticket is free; if they are between 3 and 12,
@@ -47,7 +51,7 @@ each of the following at least once:
 - Use an `active` variable to control how long the loop runs.
 
 - Use a `break` statement to exit the loop when the user enters a
-`'quit'` value.333333
+`'quit'` value.
 
 <span id="ch7exe7"></span>**7-7. Infinity:** Write a loop that never
 ends, and run it. (To end the loop, press <span
@@ -76,3 +80,4 @@ that polls users about their dream vacation. Write a prompt similar to
 *If you could visit one place in the world, where would you go?* Include
 a block of code that prints the results of the poll.
 
+<img alt="An ASCII art globe by Adam Wierchoła" src="https://raw.githubusercontent.com/adamsky/globe/master/.github/earth_dragging.gif" width="400vw"/>
