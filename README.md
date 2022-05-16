@@ -9,7 +9,7 @@ need to ask the user to enter, or *input*, their age; once the program
 has this input, it can compare it to the voting age to determine if the
 user is old enough and then report the result.
 
-![connections and loops](elements-connections-loops-bold.png)
+![connections and loopspsreadline](elements-connections-loops.svg)
 
 ## TRY IT YOURSELF Ⓐ
 
@@ -32,7 +32,7 @@ prompts the user to enter a series of pizza toppings until they enter a
 `'quit'` value. As they enter each topping, print a message saying
 you&rsquo;ll add that topping to their pizza.
 
-![pizza toppings](toppings.png)
+![pizza toppings](toppings.svg)
 
 <span id="ch7exe5"></span>**7-5. Movie Tickets:** A movie theater
 charges different ticket prices depending on a person&rsquo;s age. If a person
